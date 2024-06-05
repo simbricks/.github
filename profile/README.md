@@ -10,7 +10,7 @@ For more information please check out the [SimBricks website](https://simbricks.
 
 ### Slack
 
-One option to get in touch with the SimBricks-Team is by joining [our Slack channel](https://join.slack.com/t/simbricks/shared_invite/zt-16y96155y-xspnVcm18EUkbUHDcSVonA).
+For interactive discussions with the SimBricks-Team and other users, please [join our Slack team](https://join.slack.com/t/simbricks/shared_invite/zt-16y96155y-xspnVcm18EUkbUHDcSVonA).
 There you can ask questions and receive support when facing technical difficulties.
 
 ### GitHub
