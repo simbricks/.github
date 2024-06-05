@@ -15,5 +15,5 @@ There you can ask questions and receive support when facing technical difficulti
 
 ### GitHub
 
-Another options to ask questions or receive technical support is by using GitHub issues or discussions. For this simply [open an issue](https://github.com/simbricks/simbricks/issues/new) or [start a discussion](https://github.com/simbricks/simbricks/discussions/new/choose) in the [SimBricks core repository](https://github.com/simbricks/simbricks). **The other SimBricks related repositories, including the forked simulators, have issues and discussions disabled. Please also use the issues and discussions in the core repo.**
+Another option to ask questions or receive technical support is by using GitHub issues or discussions. For this simply [open an issue](https://github.com/simbricks/simbricks/issues/new) or [start a discussion](https://github.com/simbricks/simbricks/discussions/new/choose) in the [SimBricks core repository](https://github.com/simbricks/simbricks). **The other SimBricks related repositories, including the forked simulators, have issues and discussions disabled. Please also use the issues and discussions in the core repo.**
 
