@@ -4,7 +4,7 @@ SimBricks is an open-source, modular simulation framework enabling full end-to-e
 
 The SimBricks core implementation is in our [main repository](https://github.com/simbricks/simbricks). To get started using SimBricks, we recommend our [examples repository](https://github.com/simbricks/simbricks-examples) containing a few concrete case-studies for how to use SimBricks.
 
-For more information please check out the [SimBricks website](https://simbricks.github.io/).
+For more information please check out the [SimBricks website](https://www.simbricks.io/).
 
 ## Getting in Touch
 
